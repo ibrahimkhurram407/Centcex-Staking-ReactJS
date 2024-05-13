@@ -24,7 +24,7 @@
     "react-scripts": "5.0.1",
     "react-toastify": "^9.0.4",
     "request": "^2.88.2",
-    "wagmi": "^1.3.8",
+    "wagmi": "1.3.8",
     "web-vitals": "^2.1.4",
     "web3": "^1.7.3",
     "chai": "4.2.0",
